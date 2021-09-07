@@ -141,8 +141,9 @@ nav {
 
 .row-rollbun h5 {
   text-align: center;
-  color: black;
-  font-size: 20px;
+  color: white;
+  font-weight: 800;
+  font-size: 24px;
 }
 
 .col-rollbun {
@@ -185,7 +186,7 @@ nav {
 /* Menu Sweet Reguler */
 .sweetreguler {
   width: 100%;
-  padding: 100px 100px;
+  padding: 50px 100px;
   background-color: #231f1e;
 }
 
@@ -219,6 +220,46 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
+  background-image: url("img/largecinnamon.jpg");
+  background-position: center;
+}
+.sweetreguler-img2 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largechoco.JPG");
+  background-position: center;
+}
+.sweetreguler-img3 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("");
+  background-position: center;
+}
+.sweetreguler-img4 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largetiramisu.jpg");
+  background-position: center;
+}
+.sweetreguler-img5 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largeovo.jpeg");
+  background-position: center;
+}
+.sweetreguler-img6 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
   background-image: url("img/largematcha.jpg");
   background-position: center;
 }
@@ -231,6 +272,7 @@ nav {
   overflow: hidden;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
   transition: all 0.4s ease;
+  cursor: pointer;
 }
 
 .sweetreguler-container:hover {
@@ -247,13 +289,14 @@ nav {
 
 .sweetreguler-title {
   font-size: 30px;
+  margin-top: 20px;
   text-align: center;
   color: #231f1e;
 }
 
 .harga {
-  font-size: 50px;
-  margin-top: 20px;
+  font-size: 30px;
+  margin-top: 10px;
   text-align: center;
   color: #231f1e;
   text-shadow: 0 0.4rem 2rem rgba(0, 0, 0, 0.4);
@@ -263,8 +306,8 @@ nav {
 /* Menu Sweet Premium */
 .sweetpremium {
   width: 100%;
-  padding: 100px 100px;
-  background-color: whitesmoke;
+  padding: 50px 100px;
+  background-color: #231f1e;
 }
 
 .sweetpremium-heading {
@@ -272,7 +315,7 @@ nav {
   text-align: center;
   text-shadow: 0 0 1rem rgba(0, 0, 0, 0.9);
   text-transform: uppercase;
-  color: #231f1e;
+  color: white;
   font-weight: 800;
   margin-bottom: 50px;
 }
@@ -297,7 +340,47 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/largematcha.jpg");
+  background-image: url("");
+  background-position: center;
+}
+.sweetpremium-img2 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("");
+  background-position: center;
+}
+.sweetpremium-img3 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largestrawblue.jpg");
+  background-position: center;
+}
+.sweetpremium-img4 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largestrawblue.jpg");
+  background-position: center;
+}
+.sweetpremium-img5 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("");
+  background-position: center;
+}
+.sweetpremium-img6 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largeredvelvet.jpg");
   background-position: center;
 }
 
@@ -309,6 +392,7 @@ nav {
   overflow: hidden;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
   transition: all 0.4s ease;
+  cursor: pointer;
 }
 
 .sweetpremium-container:hover {
@@ -324,24 +408,18 @@ nav {
 }
 
 .sweetpremium-title {
-  font-size: 30px;
-  text-align: center;
-  color: #231f1e;
-}
-
-.harga {
-  font-size: 50px;
+  font-size: 25px;
   margin-top: 20px;
   text-align: center;
   color: #231f1e;
-  text-shadow: 0 0.4rem 2rem rgba(0, 0, 0, 0.4);
 }
 /* Akhir Menu Sweet Premium */
 
 /* Menu Savory Premium */
 .savorypremium {
   width: 100%;
-  padding: 100px 100px;
+  height: 750px;
+  padding: 50px 100px;
   background-color: #231f1e;
 }
 
@@ -375,7 +453,31 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/largematcha.jpg");
+  background-image: url("img/largebbqchicken.jpg");
+  background-position: center;
+}
+.savorypremium-img2 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largebeefteriyaki.JPG");
+  background-position: center;
+}
+.savorypremium-img3 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("");
+  background-position: center;
+}
+.savorypremium-img4 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/largetunamentai.jpg");
   background-position: center;
 }
 
@@ -387,6 +489,7 @@ nav {
   overflow: hidden;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
   transition: all 0.4s ease;
+  cursor: pointer;
 }
 
 .savorypremium-container:hover {
@@ -402,84 +505,142 @@ nav {
 }
 
 .savorypremium-title {
-  font-size: 30px;
-  text-align: center;
-  color: #231f1e;
-}
-
-.harga {
-  font-size: 50px;
+  font-size: 25px;
   margin-top: 20px;
   text-align: center;
   color: #231f1e;
-  text-shadow: 0 0.4rem 2rem rgba(0, 0, 0, 0.4);
 }
 /* Akhir Menu Savory Premium */
 
-/* AKHIR BODY ROLLBUN */
-
-/* BODY CAKE */
-.row-cake {
-  display: flex;
-  margin: 50px 50px;
-  align-items: center;
+/* Menu Rollbun Mix */
+.rollbunmix {
+  width: 100%;
+  height: 1300px;
+  padding: 50px 100px;
+  background-color: #231f1e;
 }
 
-.row-cake h1 {
-  color: #231f1e;
-  font-size: 100px;
+.rollbunmix-heading {
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 0 0 1rem rgba(0, 0, 0, 0.9);
+  text-transform: uppercase;
+  color: white;
+  font-weight: 800;
+  margin-bottom: 50px;
+}
+
+.rollbunmix-grid {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  justify-self: center;
+  grid-gap: 2rem;
+}
+
+.heading-secondary {
+  font-size: 7rem;
+  text-transform: uppercase;
+  color: white;
   text-align: center;
 }
 
-.row-cake p {
-  color: #231f1e;
-  font-size: 19px;
-  text-align: center;
-}
-
-.row-cake h5 {
-  text-align: center;
-  color: black;
-  font-size: 20px;
-}
-
-.col-cake {
-  flex-basis: 30%;
-  margin: 10%;
-}
-
-.card-cake {
-  width: 250px;
-  height: 250px;
-  display: inline-block;
-  border-radius: 10px;
-  padding: 15px 15px;
-  box-sizing: border-box;
-  cursor: pointer;
-  margin: 10px 10px;
-  background-image: url(img/largematcha.jpg);
-  background-position: center;
+.rollbunmix-img {
+  height: 50%;
+  width: 100%;
   background-size: cover;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-  border-top: 1px solid rgba(255, 255, 255, 0.5);
-  border-left: 1px solid rgba(255, 255, 255, 0.5);
-  transition: ease 0.5s;
+  background-position: left;
+  background-image: url("img/mix1.jpg");
+  background-position: center;
+}
+.rollbunmix-img2 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix2.jpg");
+  background-position: center;
+}
+.rollbunmix-img3 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix3.jpg");
+  background-position: center;
+}
+.rollbunmix-img4 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix4.jpg");
+  background-position: center;
+}
+.rollbunmix-img5 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix5.jpg");
+  background-position: center;
+}
+.rollbunmix-img6 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix6.jpg");
+  background-position: center;
+}
+.rollbunmix-img7 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/mix7.jpg");
+  background-position: center;
+}
+.rollbunmix-img8 {
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("");
+  background-position: center;
 }
 
-.card2 {
-  background-image: url(img/largeredvelvet.jpg);
-}
-.card3 {
-  background-image: url(img/largetunamentai.jpg);
-}
-.card4 {
-  background-image: url(img/largemix.jpg);
+.rollbunmix-container {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+  transition: all 0.4s ease;
+  cursor: pointer;
 }
 
-.card-cake:hover {
-  transform: translateY(-10px);
+.rollbunmix-container:hover {
+  box-shadow: 0 0 5rem rgba(0, 0, 0, 0.4);
+  transform: scale(1.07);
 }
-/* AKHIR BODY CAKE */
+
+.rollbunmix-p {
+  font-size: 20px;
+  padding: 1rem;
+  text-align: center;
+  color: #231f1e;
+}
+
+.rollbunmix-title {
+  font-size: 25px;
+  margin-top: 20px;
+  text-align: center;
+  color: #231f1e;
+}
+/* Akhir Menu Rollbun Mix */
+/* AKHIR BODY ROLLBUN */
 
 /* FOOTER */
 .container {
