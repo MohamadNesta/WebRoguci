@@ -121,6 +121,10 @@ nav {
 /* AKHIR NAVBAR */
 
 /* BODY ROLLBUN */
+body {
+  background: rgb(212, 210, 210);
+}
+
 .row-rollbun {
   display: flex;
   margin: 50px 50px;
@@ -237,7 +241,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/largecheese.jpg");
   background-position: center;
 }
 .sweetreguler-img4 {
@@ -341,7 +345,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/largeappleraisin.jpg");
   background-position: center;
 }
 .sweetpremium-img2 {
@@ -349,7 +353,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/largebananacaramel.jpg");
   background-position: center;
 }
 .sweetpremium-img3 {
@@ -357,7 +361,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/largestrawblue.jpg");
+  background-image: url("img/largeblueberrycheese.jpg");
   background-position: center;
 }
 .sweetpremium-img4 {
@@ -365,7 +369,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/largestrawblue.jpg");
+  background-image: url("img/largestrawberrycheese.jpg");
   background-position: center;
 }
 .sweetpremium-img5 {
@@ -373,7 +377,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/largesweetcorn.jpg");
   background-position: center;
 }
 .sweetpremium-img6 {
@@ -470,7 +474,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/largesesameshrimp.jpg");
   background-position: center;
 }
 .savorypremium-img4 {
@@ -606,7 +610,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/mixit.jpg");
   background-position: center;
 }
 
