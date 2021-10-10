@@ -121,6 +121,10 @@ nav {
 /* AKHIR NAVBAR */
 
 /* BODY TART */
+body {
+  background: rgb(212, 210, 210);
+}
+
 .row-tart {
   display: flex;
   margin: 50px 50px;
