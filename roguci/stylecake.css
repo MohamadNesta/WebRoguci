@@ -121,6 +121,9 @@ nav {
 /* AKHIR NAVBAR */
 
 /* BODY CAKE */
+body {
+  background: rgb(212, 210, 210);
+}
 .row-cake {
   display: flex;
   margin: 50px 50px;
@@ -236,7 +239,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/cake3.jpeg");
+  background-image: url("img/cake5.jpeg");
   background-position: center;
 }
 .cake-img4 {
@@ -252,71 +255,7 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("img/cake5.jpeg");
-  background-position: center;
-}
-.cake-img7 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
   background-image: url("img/cake6.jpeg");
-  background-position: center;
-}
-.cake-img8 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img8 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img9 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img10 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img11 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img12 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
-  background-position: center;
-}
-.cake-img13 {
-  height: 70%;
-  width: 100%;
-  background-size: cover;
-  background-position: left;
-  background-image: url("");
   background-position: center;
 }
 .cake-img6 {
@@ -324,45 +263,61 @@ nav {
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/cake3.jpeg");
   background-position: center;
 }
-.cake-img14 {
+.cake-img7 {
   height: 70%;
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/cake7.jpeg");
   background-position: center;
 }
-.cake-img15 {
+.cake-img8 {
   height: 70%;
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/cake8.jpeg");
   background-position: center;
 }
-.cake-img16 {
+.cake-img9 {
   height: 70%;
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/cake9.jpeg");
   background-position: center;
 }
-.cake-img17 {
+.cake-img10 {
   height: 70%;
   width: 100%;
   background-size: cover;
   background-position: left;
-  background-image: url("");
+  background-image: url("img/cake10.jpeg");
+  background-position: center;
+}
+.cake-img11 {
+  height: 70%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/cake11.jpeg");
+  background-position: center;
+}
+.cake-img12 {
+  height: 70%;
+  width: 100%;
+  background-size: cover;
+  background-position: left;
+  background-image: url("img/cake12.jpeg");
   background-position: center;
 }
 
 .cake-container {
   width: 100%;
-  height: 400px;
+  height: 425px;
   background-color: white;
   border-radius: 5px;
   overflow: hidden;
@@ -376,15 +331,8 @@ nav {
   transform: scale(1.07);
 }
 
-.cake-p {
-  font-size: 20px;
-  padding: 1rem;
-  text-align: center;
-  color: #231f1e;
-}
-
 .cake-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 20px;
   text-align: center;
   color: #231f1e;
